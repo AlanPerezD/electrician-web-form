@@ -41,12 +41,12 @@ export default function Home() {
         firstField
         firstFieldIcon="linesIcon"
       />
+      {/* <CardForm/>
       <CardForm/>
       <CardForm/>
       <CardForm/>
       <CardForm/>
-      <CardForm/>
-      <CardForm/>
+      <CardForm/> */}
     </main>
   );
 }
